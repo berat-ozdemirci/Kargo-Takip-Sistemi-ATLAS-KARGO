@@ -1,0 +1,7 @@
+# Automatically normalize line endings for all text files.
+* text=auto
+
+# Confirm that PHP, HTML, and SQL files will be processed as text and will remain UTF-8.
+*.php text
+*.html text
+*.sql text
