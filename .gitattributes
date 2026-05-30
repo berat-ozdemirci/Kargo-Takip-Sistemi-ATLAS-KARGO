@@ -5,3 +5,9 @@
 *.php text
 *.html text
 *.sql text
+
+# Ensure that the files in the image folder are saved as binary files.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
